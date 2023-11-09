@@ -35,12 +35,3 @@
 ## Linguagens mais utilizadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maria18-ai&hide_progress=true)
-    <img src="	https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</div>
-<br>
-
-Apaixonada por tecnologia, educação e em mudar a vida das pessoas pela programação.
-
-## Linguagens mais utilizadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maria18-ai&hide_progress=true)
