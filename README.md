@@ -30,7 +30,8 @@
 </div>
 <br>
 
-### Apaixonada por tecnologia e educação, trabalhando com programação a 11 meses.
+### Apaixonada por tecnologia e educação.
+  Trabalhando com programação a 11 meses.
 
 ## Linguagens mais utilizadas
 
