@@ -28,7 +28,7 @@
 <br>
 
 ### Apaixonada por tecnologia e educação.
-  Trabalhando com programação a 11 meses.
+  Trabalhando com programação a 14 meses.
 
 ## Linguagens mais utilizadas
 
